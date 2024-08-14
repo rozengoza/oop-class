@@ -1,0 +1,2 @@
+This file contains people information.
+This is created using WriteFile method.
